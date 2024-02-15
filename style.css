@@ -63,5 +63,22 @@ body{
 
 }
 
+.btn{
+    background-color: #302d2d;
+    color: #fff;
+    border-radius: 4px;
+    padding: 12px;
+}
+
+btn:focus{
+    outline:0;
+
+}
+
+.btn-heart{
+    color: red;
+    font-size:30px ;
+    margin-bottom: 10px;
+}
 
 
